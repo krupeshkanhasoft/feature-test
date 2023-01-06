@@ -1,3 +1,14 @@
+-	react (v16)
+-	axios
+-	bootstrap (v4)
+-	node-sass
+-	react-redux
+-	redux (v4)
+-	react-custom-scrollbars
+-	reselect
+
+Note: I did not use reselect for this project as i dont have much idea about it. I just use starndard redux - reducer flow.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
